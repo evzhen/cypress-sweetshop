@@ -1,0 +1,6 @@
+1. Login to dashboard
+2. Browse sweets and add first to basket
+3. Add all popular sweets on general page to basket
+4. Delete sweet from backet
+5. Calculate price with sweet and Standard Shipping delivery
+6. Order sweet in backet
